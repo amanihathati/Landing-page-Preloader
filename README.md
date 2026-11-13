@@ -499,5 +499,3 @@ Main site structure:
 
 Styling for the intro and layout:
 - `styles.css`
-
-If you want, I can also create a second version of this README with a more beginner-friendly explanation or a more advanced developer-style breakdown.
